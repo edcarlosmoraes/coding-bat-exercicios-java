@@ -9,3 +9,6 @@ Nesse Exercício é verificado a possibilidade de dormir mais tarde se for feria
 
 ### Menos 10 (Exercício 02)
 Informa se o número inserido tem ou não dez a menos que cem ou duzentos
+
+### Tira uma Letra (Exercício 03)
+Mostra uma palavra sem a letra da posição informada pelo usuário
