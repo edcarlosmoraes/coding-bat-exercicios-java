@@ -13,5 +13,8 @@ Informa se o número inserido tem ou não dez a menos que cem ou duzentos
 ### Tira uma Letra (Exercício 03)
 Mostra uma palavra sem a letra da posição informada pelo usuário
 
-### Inserindo Letra (Exercício04)
+### Inserindo Letra (Exercício 04)
 Com uma palavra inserida é retornado a mesma com a última letra dela concatenada no começo e no fim 
+
+### Iniciando Palavra (Exercício 05)
+Verifica se todas as palavras começam com "Hi"
