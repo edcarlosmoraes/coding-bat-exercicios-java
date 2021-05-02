@@ -18,3 +18,6 @@ Com uma palavra inserida é retornado a mesma com a última letra dela concatena
 
 ### Iniciando Palavra (Exercício 05)
 Verifica se todas as palavras começam com "Hi"
+
+### Números "teen" (Exercício 06)
+Demostra se algum de três números informados está na faixa de 13 a 19
