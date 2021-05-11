@@ -21,3 +21,6 @@ Verifica se todas as palavras começam com "Hi"
 
 ### Números "teen" (Exercício 06)
 Demostra se algum de três números informados está na faixa de 13 a 19
+
+### Verificador Iniciais (Exercício 07)
+Retorna se é verdadeiro ou falso que a segunda e terceira letra de uma palavra sõ "ix"
