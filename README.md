@@ -24,3 +24,6 @@ Demostra se algum de três números informados está na faixa de 13 a 19
 
 ### Verificador Iniciais (Exercício 07)
 Retorna se é verdadeiro ou falso que a segunda e terceira letra de uma palavra sõ "ix"
+
+### Próximo de 10 (Exercício 08)
+Verifica entre dois números qual é o mais próximo de 10
