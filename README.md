@@ -27,3 +27,6 @@ Retorna se é verdadeiro ou falso que a segunda e terceira letra de uma palavra 
 
 ### Próximo de 10 (Exercício 08)
 Verifica entre dois números qual é o mais próximo de 10
+
+### Contador de Letra (Exercício 09)
+É informado uma palavra e é retornado se ela tem menos que quatro letras "e"
