@@ -30,3 +30,6 @@ Verifica entre dois números qual é o mais próximo de 10
 
 ### Contador de Letra (Exercício 09)
 É informado uma palavra e é retornado se ela tem menos que quatro letras "e"
+
+### Sequencia de Letras (Exercício 10)
+Nesse exemplo é possível retornar letras de uma palavra pulando n vezes
