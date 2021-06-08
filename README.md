@@ -33,3 +33,6 @@ Verifica entre dois números qual é o mais próximo de 10
 
 ### Sequencia de Letras (Exercício 10)
 Nesse exemplo é possível retornar letras de uma palavra pulando n vezes
+
+### Macacos Sorrindo (Exercício 11)
+Verifica se os dois macacos estão sorrindo ou se os dois não estão sorrindo
