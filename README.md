@@ -36,3 +36,6 @@ Nesse exemplo é possível retornar letras de uma palavra pulando n vezes
 
 ### Macacos Sorrindo (Exercício 11)
 Verifica se os dois macacos estão sorrindo ou se os dois não estão sorrindo
+
+### Papagaio Falando (Exercício 12)
+Verifica se o papagaio está falando ou não em um determinado horário
