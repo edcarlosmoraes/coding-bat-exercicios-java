@@ -39,3 +39,6 @@ Verifica se os dois macacos estão sorrindo ou se os dois não estão sorrindo
 
 ### Papagaio Falando (Exercício 12)
 Verifica se o papagaio está falando ou não em um determinado horário
+
+### Números Inteiros(Exercício 13)
+O programa verifica se um de dois números são negativos e se um parâmetro é verdadeiro
