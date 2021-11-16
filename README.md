@@ -42,3 +42,6 @@ Verifica se o papagaio está falando ou não em um determinado horário
 
 ### Números Inteiros(Exercício 13)
 O programa verifica se um de dois números são negativos e se um parâmetro é verdadeiro
+
+### Múltiplos de 3 e 5 (Exercício 14)
+Neste exercício é possível validar se os número informado é divisível por 3 e 5 ou não
